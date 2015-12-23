@@ -1,2 +1,2 @@
 # stockfighter
-Stockfighter.io - Ruby
+Stockfighter.io - Scala
